@@ -1,5 +1,4 @@
 The folder "Publication_example" shows an example of publication format. After moving this folder into the folder "publication", the information of this folder will be shown in the publication section of the webpage.
 
 
-
 Mon Oct 11 18:03:48 CST 2021  
