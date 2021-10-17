@@ -5,7 +5,7 @@
     <link>https://xqihao.github.io/publication/</link>
       <atom:link href="https://xqihao.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 03 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://xqihao.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,17 +13,9 @@
     </image>
     
     <item>
-      <title>An acoustic eikonal equation for attenuating transversely isotropic media with a vertical symmetry axis</title>
-      <link>https://xqihao.github.io/publication/hao-a-2017-a/</link>
-      <pubDate>Sun, 03 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://xqihao.github.io/publication/hao-a-2017-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Nearly constant Q dissipative models and wave equations for general viscoelastic anisotropy</title>
       <link>https://xqihao.github.io/publication/hao-greenhalgh-2021-b/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://xqihao.github.io/publication/hao-greenhalgh-2021-b/</guid>
       <description></description>
     </item>
@@ -31,7 +23,7 @@
     <item>
       <title>Nearly constant Q models of the generalized standard linear solid type and the corresponding wave equations</title>
       <link>https://xqihao.github.io/publication/hao-greenhalgh-2021-a/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://xqihao.github.io/publication/hao-greenhalgh-2021-a/</guid>
       <description></description>
     </item>
@@ -57,6 +49,14 @@
       <link>https://xqihao.github.io/publication/hao-alkhalifah-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://xqihao.github.io/publication/hao-alkhalifah-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An acoustic eikonal equation for attenuating transversely isotropic media with a vertical symmetry axis</title>
+      <link>https://xqihao.github.io/publication/hao-a-2017-a/</link>
+      <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://xqihao.github.io/publication/hao-a-2017-a/</guid>
       <description></description>
     </item>
     
